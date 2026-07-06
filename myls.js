@@ -1,8 +1,11 @@
-alert('Hello,syujiro!);
+('Hello,syujiro!);
 alert(1+1);
 alert(Math.sqrt(1+1));
-alert(2+3)
-alert('2'+'3')
-alert(Number('2')+Number('3')
-alert('2'+3)
-alert(Number('2')+3
+2の平方根と3の平方根の和
+1を0で割るとどうなるか、試しなさい。
+0を0で割るとどうなるか、試しなさい。
+(2+3)
+('2'+'3')
+Number('2')+Number('3')
+('2'+3)
+(Number('2')+3
